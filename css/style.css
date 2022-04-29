@@ -377,4 +377,11 @@ background-text {
     top:2vh;
     left: 80vw;
   }
+  
+  .navbar-right{
+    position: absolute;
+    text-align: right;
+    top:8vh;
+    left: 65vw;
+  }
 }
